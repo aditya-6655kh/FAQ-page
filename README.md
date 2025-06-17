@@ -69,8 +69,8 @@ This is a fully responsive FAQ web page built with HTML and CSS. The page adapts
 
 ## 👤 Author
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Live Site: [your-username.github.io/simple-faq-page](https://your-username.github.io/simple-faq-page)
+- GitHub: [@your-username](https://github.com/aditya-6655kh)
+- Live Site: [your-username.github.io/simple-faq-page]((https://aditya-6655kh.github.io/FAQ-page/))
 
 ---
 
