@@ -70,7 +70,7 @@ This is a fully responsive FAQ web page built with HTML and CSS. The page adapts
 ## 👤 Author
 
 - GitHub: [@aditya-6655kh](https://github.com/aditya-6655kh)
-- Live Site: [FAQ page]((https://aditya-6655kh.github.io/FAQ-page/))
+- Live Site: [FAQ page]((https://aditya-6655kh.github.io/FAQ-page/)
 
 ---
 
