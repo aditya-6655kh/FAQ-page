@@ -74,15 +74,6 @@ This is a fully responsive FAQ web page built with HTML and CSS. The page adapts
 
 ---
 
-## 🚀 Deploy
-
-You can deploy this using:
-- GitHub Pages
-- Netlify
-- Vercel
-
----
-
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
