@@ -24,7 +24,7 @@
 
 ## 📸 Overview
 
-![screenshot](./screenshot.jpg) <!-- Replace with actual screenshot filename -->
+![screenshot](./thumbnail.jpg) <!-- Replace with actual screenshot filename -->
 
 This is a fully responsive FAQ web page built with HTML and CSS. The page adapts seamlessly to desktop (1350px), tablet (1024px), and mobile (412px) layouts using media queries. It was developed as part of the [devChallenges.io](https://devchallenges.io/) platform to practice semantic HTML and responsive CSS design.
 
